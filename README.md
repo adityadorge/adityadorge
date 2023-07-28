@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
-## Krishnakanth Alagiri (Him/He) 🌻
-- 🔭 I’m a Student Software Engineer from Sri Venkateswara College of Engineering
+## Aditya Vilas Dorage 🌻
+- 🔭 I’m a Masters in Computer Science Student from Kirti M. Doongursee College
 - 👯 I write about technologies that interest me in [My Blog](https://thekrishna.in/blogs).
 - 💬 Let's talk about Language Technologies, Cloud Orchestration, and Pro-Bonos.
 - 📫 **How to reach me**: [Website](https://thekrishna.in/) or [LinkedIn](https://linkedin.com/in/krishnaalagiri/)

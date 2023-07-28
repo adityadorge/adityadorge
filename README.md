@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/adityadorge)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-d-99b5141bb)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:adityadorge07@gmail.com)
-
+[![Codewars](https://img.shields.io/badge/-Codewars-c14438?style=flat&logo=Codewars&logoColor=white)](https://www.codewars.com/users/Aditya%20%20Dorge)
 - ⚡ **Unbelievable fact**: My first words were "Hello world". (I warned you!)
 
 <details>

@@ -20,7 +20,11 @@ Here are some ideas to get you started:
 - 🔭 I’m a Masters in Computer Science Student from Kirti M. Doongursee College
 - 🌱 I’m currently a Machine Learning Intern at Indian Institute of Technology Bombay (IIT-Bombay)
 - 💬 Let's talk about Language Technologies, Machine Learning , and Pros-Cons .
-- 📫 **How to reach me**: [Website](https://thekrishna.in/) or [LinkedIn](https://linkedin.com/in/krishnaalagiri/)
+- 📫 **How to reach me**:
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/adityadorge)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-d-99b5141bb)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:adityadorge07@gmail.com)
+
 - ⚡ **Unbelievable fact**: My first words were "Hello world". (I warned you!)
 
 <details>

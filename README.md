@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
-## Aditya Vilas Dorage 🌻
+## Aditya Vilas Dorge 🌻
 - 🔭 I’m a Masters in Computer Science Student from Kirti M. Doongursee College
-- 🌱 I’m currently a Machine Learning intern at Indian Institute of Technology Bombay (IIT-Bombay)
+- 🌱 I’m currently a Machine Learning Intern at Indian Institute of Technology Bombay (IIT-Bombay)
 - 💬 Let's talk about Language Technologies, Machine Learning , and Pros-Cons .
 - 📫 **How to reach me**: [Website](https://thekrishna.in/) or [LinkedIn](https://linkedin.com/in/krishnaalagiri/)
 - ⚡ **Unbelievable fact**: My first words were "Hello world". (I warned you!)

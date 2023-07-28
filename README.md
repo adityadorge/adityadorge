@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 ## Aditya Vilas Dorage 🌻
 - 🔭 I’m a Masters in Computer Science Student from Kirti M. Doongursee College
-- 👯 I write about technologies that interest me in [My Blog](https://thekrishna.in/blogs).
-- 💬 Let's talk about Language Technologies, Cloud Orchestration, and Pro-Bonos.
+- 🌱 I’m currently a Machine Learning intern at Indian Institute of Technology Bombay (IIT-Bombay)
+- 💬 Let's talk about Language Technologies, Machine Learning , and Pros-Cons .
 - 📫 **How to reach me**: [Website](https://thekrishna.in/) or [LinkedIn](https://linkedin.com/in/krishnaalagiri/)
 - ⚡ **Unbelievable fact**: My first words were "Hello world". (I warned you!)
 

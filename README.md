@@ -39,7 +39,7 @@ I am very much a kid at heart, love to cook :ramen:, listen to jazz :saxophone:	
 
 Here's my favourite song for you :trumpet:- [**Feeling Good** by **Nina Simone**.](https://youtube.com/watch?v=BNMKGYiJpvg)
 
-### Languages , Tools and Frameworks :scroll:
+### Languages ,Tools and Frameworks :scroll:
 <p>
   <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp"   width="50">
   <img src="https://media.giphy.com/media/3rCcV6sC1o2GY/giphy.gif" width="50">
@@ -48,7 +48,6 @@ Here's my favourite song for you :trumpet:- [**Feeling Good** by **Nina Simone**
   <img src="https://cdn.thekrishna.in/img/icon/gnubash.svg" width="50" >
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
-  <img src="https://drive.google.com/file/d/1sEmPPeBmL5YwX7iJtZ11m9OmAEh7v9TB/view?usp=sharing" width="50">
 <p>
 
 ### Database Systems :bar_chart:

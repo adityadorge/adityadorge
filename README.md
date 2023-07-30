@@ -10,13 +10,12 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:adityadorge07@gmail.com)
 [![Codewars](https://img.shields.io/badge/-Codewars-c14438?style=flat&logo=Codewars&logoColor=white)](https://www.codewars.com/users/Aditya%20%20Dorge)
 - ⚡ **Unbelievable fact**: My dreams are actually a **"coding power naps"**
-- <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to make friends.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>-->
+- <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to make friends.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 <details>
 <summary>
   <a href=""><img src="https://img.shields.io/badge/-Expand%20to%20know%20more-b03544?style=for-the-badge" /></a>
 </summary>
-
 
 ### Little More About Me  
 
@@ -33,7 +32,6 @@ I am a unique individual with my own thoughts, feelings, and experiences. I love
   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
   <img src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" width="50">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHBma2JtOWxvc2JhMno3eWllbnY1dGZwOG9xZ3o5b2M3ZWRnenlmaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vISmwpBJUNYzukTnVx/giphy.gif" width="100">
-<!--<img src="https://media1.giphy.com/media/KGQCBekFKkvLjlcC2g/source.gif" width="130" >-->
 </p></div>
 <div><p>
   <img src="https://i.ibb.co/yX21jSY/output-onlinegiftools.gif" width="125">

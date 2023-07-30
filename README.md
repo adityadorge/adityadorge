@@ -10,6 +10,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:adityadorge07@gmail.com)
 [![Codewars](https://img.shields.io/badge/-Codewars-c14438?style=flat&logo=Codewars&logoColor=white)](https://www.codewars.com/users/Aditya%20%20Dorge)
 - ⚡ **Unbelievable fact**: My dreams are actually a **"coding power naps"**
+- <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to make friends.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>-->
 
 <details>
 <summary>
@@ -19,10 +20,10 @@
 
 ### Little More About Me  
 
-I am very much a kid at heart, love to cook :ramen:, listen to jazz :saxophone:	and play video games :video_game:. I'm good at Team Building and collaboration. In fact, I'm currently the Chair of [SVCE-ACM Student Chapter](https://svce.acm.org/). I'm currently focusing :dart: of Cloud Architectures, Natural Language Processing and Deep Learning.
+I am a unique individual with my own thoughts, feelings, and experiences. I love to watch anime :dancing_men: , listen to music :saxophone:	, play video games :video_game: and reading books :books:. I am passionate about learning emerging technologies :computer: and have strong problem-solving abilities :abacus:, critical thinking skills :brain:, and research skills :man_student: to perform well in a team in a fast-paced environment.
 
 ### Languages ,Tools and Frameworks :scroll:
-
+<div><p>
   <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp"   width="50">
   <img src="https://media.giphy.com/media/3rCcV6sC1o2GY/giphy.gif" width="50">
   <img src="https://i.ibb.co/NSKhd5H/output-onlinegiftools-2.gif" width="75">
@@ -32,24 +33,25 @@ I am very much a kid at heart, love to cook :ramen:, listen to jazz :saxophone:	
   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
   <img src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" width="50">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHBma2JtOWxvc2JhMno3eWllbnY1dGZwOG9xZ3o5b2M3ZWRnenlmaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vISmwpBJUNYzukTnVx/giphy.gif" width="100">
-<img src="https://media1.giphy.com/media/KGQCBekFKkvLjlcC2g/source.gif" width="130" >
+<!--<img src="https://media1.giphy.com/media/KGQCBekFKkvLjlcC2g/source.gif" width="130" >-->
+</p></div>
+<div><p>
+  <img src="https://i.ibb.co/yX21jSY/output-onlinegiftools.gif" width="125">
+</p></div>
 
-### Honors and Award :trophy:
+### Achievements :trophy:
+<h2>Codewars</h2>
+<div class='container'>
+<img style="height: auto; width: 47%;" class="img" src="https://github.r2v.ch/codewars?user=Aditya%20%20Dorge&theme=gradient" />
+<img style="height: auto; width: 45%;" class="img" src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=Aditya%20%20Dorge&theme=halloween" />
+</div>
 
-1. **Smart India Finalist 2020 - Software Edition**
-   - :round_pushpin:&nbsp;&nbsp;**All India Council for Technical Education (AICTE)**
-   - Shortlisted for Problem Statement: RK59 by Bureau of Police Research & Development. 
-2. **First Place - Daksh Smart Finance Hackathon (2020)**
-   - Won the First Place in a 36-hour Hackathon conducted by the **Shanmugha Arts, Science, Technology & Research Academy (SASTRA), Tamil Nadu**.
-3. **Fourth Place - St. Peter's Hackathon (2019)**
-   - Won the Fourth Place in a 12-hour Hackathon of over 100+ participants conducted by the **St. Peter's College of Engineering and Technology, Chennai.**
-4. **Third Place - SSN IEEE Hack & Tackle (2019)**
-   - Won the Third Place in a 24-hour Hackathon of over 300+ participants conducted by the IEEE Chapter of **SSN College of Engineering, Chennai**.
-5. **Founder and Lead - Active Specialized Support Group (ASSG)**
-   - It was started as an effort to combat a lack of technical diversity within our college. We also run weekly workshops for students from all departments across the college
- 
+<h2>Github</h2>
+<div class='container'>
+<img style="height: auto; width: 52%;" class="img" src="https://github-readme-stats.vercel.app/api?username=adityadorge&show_icons=true&theme=tokyonight" />
+<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityadorge&theme=tokyonight&langs_count=8&layout=compact" />
+</div>
+
 <br></details>
 <!-- footer --!>
 <img src="https://imgur.com/rilHVxA.png"/>
-
-

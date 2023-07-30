@@ -50,8 +50,6 @@ I am very much a kid at heart, love to cook :ramen:, listen to jazz :saxophone:	
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHBma2JtOWxvc2JhMno3eWllbnY1dGZwOG9xZ3o5b2M3ZWRnenlmaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vISmwpBJUNYzukTnVx/giphy.gif" width="100">
 <img src="https://media1.giphy.com/media/KGQCBekFKkvLjlcC2g/source.gif" width="130" >
 
-<img src="https://i.ibb.co/LPTmT9q/output-onlinegiftools.gif" width="160" >
-
 
 ### Honors and Award :trophy:
 

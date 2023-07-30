@@ -48,11 +48,7 @@ I am very much a kid at heart, love to cook :ramen:, listen to jazz :saxophone:	
   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
   <img src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" width="50">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHBma2JtOWxvc2JhMno3eWllbnY1dGZwOG9xZ3o5b2M3ZWRnenlmaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vISmwpBJUNYzukTnVx/giphy.gif" width="100">
-
-
-### Database Systems :bar_chart:
-
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/mysql.svg" />&nbsp; 
+<img src="https://media1.giphy.com/media/KGQCBekFKkvLjlcC2g/source.gif" width="130" >
 
 
 ### Tools and Frameworks :hammer:

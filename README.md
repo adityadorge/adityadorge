@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
+<p align="center"><img src="https://pa1.narvii.com/5798/b28ff42fd4718eff17ae44576bc60733d4c26658_00.gif" ></p>
 
 ## Aditya Vilas Dorge 🌻
 - 🔭 I’m a **Masters in Computer Science Student** from **Kirti M. Doongursee College**

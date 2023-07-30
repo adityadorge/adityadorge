@@ -1,19 +1,3 @@
-<!--### Hi there 👋
-
-
-**adityadorge/adityadorge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
-
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
 ## Aditya Vilas Dorge 🌻
@@ -50,7 +34,6 @@ I am very much a kid at heart, love to cook :ramen:, listen to jazz :saxophone:	
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHBma2JtOWxvc2JhMno3eWllbnY1dGZwOG9xZ3o5b2M3ZWRnenlmaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vISmwpBJUNYzukTnVx/giphy.gif" width="100">
 <img src="https://media1.giphy.com/media/KGQCBekFKkvLjlcC2g/source.gif" width="130" >
 
-
 ### Honors and Award :trophy:
 
 1. **Smart India Finalist 2020 - Software Edition**
@@ -67,14 +50,6 @@ I am very much a kid at heart, love to cook :ramen:, listen to jazz :saxophone:	
  
 <br></details>
 <!-- footer --!>
-<p align="center"><a href="http://hits.dwyl.com/K-Kraken/K-Kraken"><img src="http://hits.dwyl.com/K-Kraken/K-Kraken.svg" alt="HitCount"></a></p>
-<p align="center">
-    <a id="GitHub" href="https://github.com/K-Kraken/"><img width="27px" src="https://thekrishna.in/K-Kraken/img/gh.png" alt="Krishnakanth Alagiri - GitHub" /></a>
-    &nbsp;&nbsp;     
-    <a id="LinkedIn" href="https://linkedin.com/in/krishnaalagiri/"><img width="27px" src="https://thekrishna.in/K-Kraken/img/linkedin.png" alt="Krishnakanth Alagiri - LinkedIn" /></a> 
-    &nbsp;&nbsp;
-    <a id="Website" href="https://thekrishna.in/"><img width="27px" src="https://thekrishna.in/K-Kraken/img/web.png" alt="Krishnakanth Alagiri - Website" /></a>
-    &nbsp;&nbsp;
-   <a id="Mail" href="mailto:krishna.alagiri03@gmail.com"><img width="27px" src="https://thekrishna.in/K-Kraken/img/mail.png?" alt="Krishnakanth Alagiri - Mail"/></a>
-</p>
 <img src="https://imgur.com/rilHVxA.png"/>
+
+

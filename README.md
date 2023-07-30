@@ -35,27 +35,25 @@ Here are some ideas to get you started:
 
 ### Little More About Me  
 
-I am very much a kid at heart, love to cook :ramen:, listen to jazz :saxophone:	and play video games :video_game:. I love meeting new people and learning new things, so please feel free to say hello and share a story with me. I'm good at Team Building and collaboration. In fact, I'm currently the Chair of [SVCE-ACM Student Chapter](https://svce.acm.org/). My secret sauce is getting people excited about the things I'm excited about. I also love Hackathons (Who doesn't love Pizzas, Red Bull and Swags). I'm currently focusing :dart: of Cloud Architectures, Natural Language Processing and Deep Learning.
-
-Here's my favourite song for you :trumpet:- [**Feeling Good** by **Nina Simone**.](https://youtube.com/watch?v=BNMKGYiJpvg)
+I am very much a kid at heart, love to cook :ramen:, listen to jazz :saxophone:	and play video games :video_game:. I'm good at Team Building and collaboration. In fact, I'm currently the Chair of [SVCE-ACM Student Chapter](https://svce.acm.org/). I'm currently focusing :dart: of Cloud Architectures, Natural Language Processing and Deep Learning.
 
 ### Languages ,Tools and Frameworks :scroll:
-<p>
+
   <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp"   width="50">
   <img src="https://media.giphy.com/media/3rCcV6sC1o2GY/giphy.gif" width="50">
-  <img src="https://nexenstial.in/assets/images/java.gif" width="50">
+  <img src="https://i.ibb.co/NSKhd5H/output-onlinegiftools-2.gif" width="75">
   <img src="https://cdn.myportfolio.com/45214904-6a61-4e23-98d6-b140f8654a40/2db08590-8869-4127-b190-84e31d550239_rw_600.gif?h=7db4a26fd8f436e20c82f49cde968322" width="70">
   <img src="https://cdn.thekrishna.in/img/icon/gnubash.svg" width="50" >
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
-<p>
+  <img src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" width="50">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9sno3ISiNJjM4qCGI7MqT7_unSJgeA6AluSpRXq4yZg&s" width="100">
+
 
 ### Database Systems :bar_chart:
 
 <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/mysql.svg" />&nbsp; 
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/mongodb.svg" />&nbsp; 
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/influxdb.svg" />&nbsp;&nbsp;
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/couchdb.svg" />&nbsp; 
+
 
 ### Tools and Frameworks :hammer:
 

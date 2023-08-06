@@ -14,7 +14,7 @@
 
 <details>
 <summary>
-  <a href=""><img src="https://img.shields.io/badge/-Expand%20to%20know%20more-b03544?style=for-the-badge" /></a>
+  <a><img src="https://img.shields.io/badge/-Expand%20to%20know%20more-b03544?style=for-the-badge" /></a>
 </summary>
 
 ### Little More About Me 📑

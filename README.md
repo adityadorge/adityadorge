@@ -17,7 +17,7 @@
   <a href=""><img src="https://img.shields.io/badge/-Expand%20to%20know%20more-b03544?style=for-the-badge" /></a>
 </summary>
 
-### Little More About Me  
+### Little More About Me 📑
 
 I am a unique individual with my own thoughts, feelings, and experiences. I love to watch anime :dancing_men: , listen to music :saxophone:	, play video games :video_game: and reading books :books:. I am passionate about learning emerging technologies :computer: and have strong problem-solving abilities :abacus:, critical thinking skills :brain:, and research skills :man_student: to perform well in a team in a fast-paced environment.
 

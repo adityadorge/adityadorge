@@ -38,7 +38,7 @@ I am a unique individual with my own thoughts, feelings, and experiences. I love
 </p></div>
 
 ### Achievements :trophy:
-<h2>Codewars [![Codewars](https://img.shields.io/badge/-Codewars-c14438?style=flat&logo=Codewars&logoColor=white)](https://www.codewars.com/users/Aditya%20%20Dorge)</h2>
+<h2>Codewars [![Codewars](https://img.shields.io/)</h2>
 <div class='container'>
 <img style="height: auto; width: 47%;" class="img" src="https://github.r2v.ch/codewars?user=Aditya%20%20Dorge&theme=gradient" />
 <img style="height: auto; width: 45%;" class="img" src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=Aditya%20%20Dorge&theme=halloween" />

@@ -1,5 +1,5 @@
 <!--<p align="center"><img src="https://pa1.narvii.com/5798/b28ff42fd4718eff17ae44576bc60733d4c26658_00.gif" ></p>-->
-<p align="center"><img src="https://pa1.aminoapps.com/5923/effe6d1c15743504cc74f306ccfa5fb850d19944_hq.gif"></p>
+<p align="center"><img src="https://i.gifer.com/embedded/download/TsVW.gif"></p>
 
 ## Aditya Vilas Dorge 🌻
 - 🔭 I’m a **Masters in Computer Science Student** from **Kirti M. Doongursee College**

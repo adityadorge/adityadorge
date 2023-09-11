@@ -1,5 +1,5 @@
 <!--<p align="center"><img src="https://pa1.narvii.com/5798/b28ff42fd4718eff17ae44576bc60733d4c26658_00.gif" ></p>-->
-<p align="center"><img src="https://images.app.goo.gl/z5fwz2tcspMcu9Hx9" ></p>
+<p align="center"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Faminoapps.com%2Fc%2Fanime%2Fpage%2Fblog%2Fone-piece-game%2FbEto_umbpglLra2NYkKmLMlG3qav8P&psig=AOvVaw0iwwrVBXhCYlbU_ea5gv2D&ust=1694506593910000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPju9q3FoYEDFQAAAAAdAAAAABAE" ></p>
 
 ## Aditya Vilas Dorge 🌻
 - 🔭 I’m a **Masters in Computer Science Student** from **Kirti M. Doongursee College**

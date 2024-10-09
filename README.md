@@ -9,6 +9,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-d-99b5141bb)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:adityadorge07@gmail.com)
 [![Codewars](https://img.shields.io/badge/-Codewars-c14438?style=flat&logo=Codewars&logoColor=white)](https://www.codewars.com/users/Aditya%20%20Dorge)
+[![An image of @adityadorge's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adityadorge)](https://holopin.io/@adityadorge)
 - ⚡ **Unbelievable fact**: My dreams are actually a **"coding power naps"**
 - <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to make friends.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 

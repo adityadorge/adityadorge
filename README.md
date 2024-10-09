@@ -50,8 +50,7 @@ I am a unique individual with my own thoughts, feelings, and experiences. I love
 <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityadorge&theme=tokyonight&langs_count=8&layout=compact" />
 </div>
 
-[![An image of @adityadorge's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adityadorge)](https://holopin.io/@adityadorge)
-
 <br></details>
+[![An image of @adityadorge's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adityadorge)](https://holopin.io/@adityadorge)
 <!-- footer --!>
 <img src="https://imgur.com/rilHVxA.png"/>
